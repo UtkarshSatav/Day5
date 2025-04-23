@@ -35,3 +35,9 @@ h1{
 h2{
     margin: auto;
 }
+footer{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    position: relative;
+}
